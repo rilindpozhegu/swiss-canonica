@@ -7,7 +7,7 @@
                            <span class="cd-menu-icon"></span>
                         </a>
                 </button>
-                <a href="index"><img src="img/logo/white_red_logo-01.png"></a>
+                <a href="index"><img src="img/logo/gray_red_logo-01.png"></a>
             </div><!-- 
             <div class="social_media_nav">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -41,6 +41,7 @@
 
 
 
+
                 <nav>
                     <ul class="cd-primary-nav">
                     <li>
@@ -65,18 +66,10 @@
 
 
 
-
-
-                <!-- 
-                    <li>
-                        <a class="#" href="index">HOME</a>
-                    </li>
-                    <li>
-                        <a class="#" href="activities">ACTIVITIES</a>
-                    </li>
-                    <li>
-                        <a class="#" href="about_us">THE WORLD</a>
-                    </li>
-                    <li>
-                        <a class="#" href="#contact_section">CONTACT</a>
-                    </li> -->
+<style type="text/css">
+    .navbar-default {
+    background-color: #272F34;
+    border: none;
+    padding-top: 30px;
+}
+</style>
