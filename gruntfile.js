@@ -31,7 +31,7 @@ module.exports = function(grunt) {
 					// Script of Navigationbar POPUP.
 					'js/main.js',
 
-					'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
+					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
 					],
 
