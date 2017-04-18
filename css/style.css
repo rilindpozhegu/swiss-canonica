@@ -321,7 +321,7 @@ html, body {
   height: 100%;
   width: 100%;
   background: rgba(39, 47, 52, 1) !important;
-  z-index: 2;
+  z-index: 17;
   text-align: center;
   padding: 50px 0;
   -webkit-backface-visibility: hidden;

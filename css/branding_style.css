@@ -1,0 +1,46 @@
+/*--------------------------*/
+
+/*		  BRANDING	        */
+
+/*--------------------------*/
+
+.cover_branding_page {
+	background-image: url('../img/slider/slider1-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 760px;
+	padding-top: 15%;
+	color: white;
+	text-align: left;
+  background-attachment: fixed;
+}
+.cover_branding_page h1{
+	font-size: 67px;
+	font-family: 'Montserrat-Bold';
+}
+.cover_branding_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20%;
+}
+
+.cover_branding_page p {
+	font-size: 20px;
+	color: white;
+}
+
+/*First section branding*/
+
+.small_branding_panels {
+	text-align: center;
+	padding: 10px 20px;
+	margin-bottom: 20px;
+}
+.small_branding_panels img {
+	width: 100%;
+}

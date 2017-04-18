@@ -75,19 +75,6 @@ Slider Style
 }
 
 
-
-.buttons_tabs_activities a{
-    color: #272F34 !important;
-    text-decoration: none !important;
-    font-family: 'Montserrat-Bold' !important;
-}
-.buttons_tabs_activities a:focus, a:hover {
-    color: #CC0241 !important;
-    text-decoration: none !important;
-    font-family: 'Montserrat-Bold' !important;
-}
-
-
 .pic2 {
 	background-image: url('../img/icon2_activities-01.png');
 	width: 100%;
@@ -96,7 +83,7 @@ Slider Style
 	transition: ease-in-out all 0.3s;
 }
 
-.pic2:hover {
+.pic2:hover { 
 	background-position: 0px 163px;
 	transition: ease-in-out all 0.3s;
 }
@@ -157,6 +144,39 @@ Slider Style
 	transition: ease-in-out all 0.3s;
 }
 
+
+
+
+
+
+
+.under_tab{
+    color: #272F34 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+.under_tab:hover {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+
+.under_tab:active {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+.under_tab:focus {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+
+.active_navigation {	
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
 
 /*-----------------------------------*/
 

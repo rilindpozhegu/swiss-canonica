@@ -47,16 +47,22 @@
                         <a class="#" href="index">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="contact_page">CONTACT</a>
-                    </li>
-                    <li>
                         <a class="#" href="our_history">OUR HISTORY</a>
                     </li>
                     <li>
                         <a class="#" href="activities">ACTIVITIES</a>
                     </li>
                     <li>
-                        <a class="#" href="about_us">ABOUT US</a>
+                        <a class="#" href="career_with_swiss_canonica.php">CAREER</a>
+                    </li>
+                    <li>
+                        <a class="#" href="lastest_news.php">LASTEST NEWS</a>
+                    </li>
+                    <li>
+                        <a class="#" href="brands_page">OUR BRANDS</a>
+                    </li>
+                    <li>
+                        <a class="#" href="contact_page">CONTACT</a>
                     </li>
 
                     </ul>

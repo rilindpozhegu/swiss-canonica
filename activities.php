@@ -103,7 +103,7 @@
 <section class="tabs_section_activities">
     <div id="content" class="container">
         <div class="buttons_tabs_activities">
-            <div class="row"  id="tabs"  data-tabs="tabs">
+            <div class="row"  id="mytabs"  data-tabs="tabs">
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
                     <a href="#tab1" data-toggle="tab" class="under_tab">
                         <div class="tab-buttons_sm">
@@ -113,7 +113,7 @@
                     </a>    
                 </div>
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
-                    <a href="#tab2" data-toggle="tab" >
+                    <a href="#tab2" data-toggle="tab" class="under_tab" >
                         <div class="tab-buttons_sm">
                             <div class="pic2"> </div>
                             <h3>Restaurant</h3>
@@ -121,7 +121,7 @@
                     </a>    
                 </div>
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
-                    <a href="#tab3" data-toggle="tab" >
+                    <a href="#tab3" data-toggle="tab" class="under_tab" >
                         <div class="tab-buttons_sm">
                             <div class="pic3"> </div>
                             <h3>Hotel</h3>
@@ -129,7 +129,7 @@
                     </a>    
                 </div>
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
-                    <a href="#tab4" data-toggle="tab" >
+                    <a href="#tab4" data-toggle="tab" class="under_tab" >
                         <div class="tab-buttons_sm">
                             <div class="pic4"> </div>
                             <h3>Chocolate</h3>
@@ -137,7 +137,7 @@
                     </a>    
                 </div>
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
-                    <a href="#tab5" data-toggle="tab" >
+                    <a href="#tab5" data-toggle="tab" class="under_tab" >
                         <div class="tab-buttons_sm">
                             <div class="pic5"> </div>
                             <h3>Pressing</h3>
@@ -145,7 +145,7 @@
                     </a>    
                 </div>
                 <div class="col-md-2 col-xs-6 buttons_tabs_activities2">
-                    <a href="#tab6" data-toggle="tab" >
+                    <a href="#tab6" data-toggle="tab" class="under_tab" >
                         <div class="tab-buttons_sm">
                             <div class="pic6"> </div>
                             <h3>Catering</h3>
@@ -186,6 +186,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div id="tab2" class="tab-pane fade in col-md-12">
                         <h3>Restaurant</h3>
                         <p class="title_paragraph_tab">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
@@ -211,7 +213,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="tab3" class="tab-pane fade in active col-md-12">
+                    <div id="tab3" class="tab-pane fade in col-md-12">
                         <h3>Hotel</h3>
                         <p class="title_paragraph_tab">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
                         <div class="col-md-4 small_padding-lr">
@@ -236,7 +238,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="tab4" class="tab-pane fade in active col-md-12">
+                    <div id="tab4" class="tab-pane fade in col-md-12">
                         <h3>Chocolate</h3>
                         <p class="title_paragraph_tab">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
                         <div class="col-md-4 small_padding-lr">
@@ -261,7 +263,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="tab5" class="tab-pane fade in active col-md-12">
+                    <div id="tab5" class="tab-pane fade in col-md-12">
                         <h3>Pressing</h3>
                         <p class="title_paragraph_tab">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
                         <div class="col-md-4 small_padding-lr">
@@ -286,7 +288,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="tab6" class="tab-pane fade in active col-md-12">
+                    <div id="tab6" class="tab-pane fade in col-md-12">
                         <h3>Catering</h3>
                         <p class="title_paragraph_tab">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
                         <div class="col-md-4 small_padding-lr">
@@ -311,7 +313,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>                    
             </div>
         </div>
 </div>
@@ -324,6 +326,17 @@
 ?>
 
     <script type="text/javascript" src="build/scripts.js"></script>
+
+    <script type="text/javascript">
+        $(function(){
+
+    $('#changetabbutton').click(function(e){
+        e.preventDefault();
+        $('#mytabs a[href="#second"]').tab('show');
+    })
+
+})
+    </script>
 <!-- jQuery -->
 </body>
 

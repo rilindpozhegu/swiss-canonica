@@ -84,6 +84,7 @@ button:focus {
     background-color: transparent;
     border: none;
     padding-top: 30px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.0), 0 16px 20px rgba(0,0,0,0.22);
 }
 
 .navbar-header img {
@@ -167,6 +168,18 @@ language Btn
   .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent !important;
   }
+
+
+
+  /*Drop Down Services*/
+  .drop_down_services {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(44, 54, 60);
+    padding: 10px 0px;
+  }
+
+
 /*
 ///////////////////////////////////////////////////
 Responsive Part 

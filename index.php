@@ -119,6 +119,7 @@
                     <p>RETAIL</p>
                     <h5>description <br> goes <br> here</h5>
                 </div>
+                <div class="clearfix"></div>
                 <div class="col-md-12">
                     <a href="activities"><button class="all_btn_hover">View All Activities&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
                 </div>

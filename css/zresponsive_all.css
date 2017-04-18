@@ -1,0 +1,101 @@
+/*==================*/
+
+/*	RESPONSIVE DES  */
+
+/*==================*/
+
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+	.cover_home_page h1 {
+	    font-size: 37px;
+	}
+	.cover_home_page p {
+	    font-size: 18px;
+	    color: #CCCCCC;
+	}
+
+	.section_icon_home {
+	    text-align: center;
+	    padding: 50px 10px;
+	}
+
+	.home_who_we_are {
+		background-position: left !important;
+	}
+
+	.join_us_section_text {
+	    padding: 35px 10px;
+	}
+	.input_section_home input {
+	    width: 62%;
+	}
+
+	.input_section_home button {
+	    width: 36%;
+	}
+
+	.header_section_mobile {
+		color: white;
+		padding: 25% 10px;
+		text-align: center;
+	}
+	.header_section_mobile h4 {
+	    font-family: 'PlayfairDisplay-Italic';
+	    color: white;
+	    opacity: .8;
+	    font-size: 29px;
+	}
+	.header_section_mobile h1 {
+		font-family: 'Montserrat-Bold';
+	}
+	.tab_content_inside {
+		height: auto;
+	}
+	.cover_career_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_career_page h1 {
+		font-size: 33px;
+	}
+	.cover_career_page p {
+		font-size: 13px;
+	}
+	.career_small_pan {
+		margin-top: 50px;
+	}
+
+	.cover_lastest_news_page {
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_lastest_news_page h1 {
+		font-size: 33px;
+	}
+	.cover_lastest_news_page p {
+		font-size: 13px;
+	}
+
+.cover_branding_page {
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_branding_page h1 {
+		font-size: 33px;
+	}
+	.cover_branding_page p {
+		font-size: 13px;
+	}
+
+}
