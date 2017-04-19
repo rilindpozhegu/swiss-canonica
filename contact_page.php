@@ -38,24 +38,24 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-10 no_padding">
                 <div class="col-md-12">
-                <h1>GET IN TOUCH</h1>
-                <p>Please fill in this information to send us a message!</p></div>
-                <div class="col-md-4 small_padding-lr">
+                <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">GET IN TOUCH</h1>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Please fill in this information to send us a message!</p></div>
+                <div class="col-md-4 small_padding-lr wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                     <input type="" name="" placeholder="Name">
                 </div>
-                <div class="col-md-4 small_padding-lr">
+                <div class="col-md-4 small_padding-lr wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <input type="" name="" placeholder="Email">
                 </div>
-                <div class="col-md-4 small_padding-lr">
+                <div class="col-md-4 small_padding-lr wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <input type="" name="" placeholder="Subject">
                 </div>
 
-                <div class="col-md-12 small_padding-lr">
+                <div class="col-md-12 small_padding-lr wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
                     <textarea rows="9" placeholder="Message"></textarea>
                 </div>
 
-                <div class="col-md-12">
-                    <button>Submit <i class="fa fa-angle-rigt"></i></button>
+                <div class="col-md-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
+                    <button class="hover_propperty">Submit <i class="fa fa-angle-rigt"></i></button>
                 </div>
                 </div>
                 <div class="col-md-1"></div>

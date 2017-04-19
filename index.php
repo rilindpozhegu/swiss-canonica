@@ -28,9 +28,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>WELCOME TO<br><span>SWISSCANONICA</span></h1>
-                <p>Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
-                <button>More <i class="fa fa-angle-right"></i></button>
+                <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">WELCOME TO<br><span>SWISSCANONICA</span></h1>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
+                <a href="our_history.php"><button class="hover_propperty wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="col-md-12">
-                    <a href="activities"><button class="all_btn_hover">View All Activities&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
+                    <a href="activities.php"><button class="hover_propperty">View All Activities&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
                 </div>
             </div>
         </div>
@@ -133,11 +133,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1>WHO WE ARE</h1>
-                <p>The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
-                <p>Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
-                <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
-                <button>More <i class="fa fa-angle-right"></i></button>
+                <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">WHO WE ARE</h1>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
+                <a href="our_history.php"><button class="hover_propperty wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -165,7 +165,7 @@
                                     <h5>NEWS TITLE GOES HERE </h5>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
                                     </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
+                                    <button  class="hover_propperty">Read More  <i class="fa fa-angle-right"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                                     <h5>NEWS TITLE GOES HERE 1</h5>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
                                     </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
+                                    <button  class="hover_propperty">Read More  <i class="fa fa-angle-right"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +193,7 @@
                                     <h5>NEWS TITLE GOES HERE 2</h5>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
                                     </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
+                                    <button  class="hover_propperty">Read More  <i class="fa fa-angle-right"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -223,8 +223,8 @@
                 <p>The spirit of founder André Canonica has remained central throughout the group’s development initiatives. The group aspires to solid, controlled growth – an idea that is reinforced by the importance it places on quality, respect and tradition.</p>
                 <p>Human resources, sustainable development and quality control are absolutely essential to our vision and are approached as strategic sectors.</p>
                 <p>Respect for our staff and their personal development are of utmost importance to us, meaning that special attention has always been paid to working conditions.</p>
-                <button class="first_btn_join wow fadeInLeft all_btn_hover" data-wow-duration="1s" data-wow-delay=".3s"">Job Offers&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
-                <button class="second_btn_join wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s"">Contact RH&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                <button class="first_btn_join wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".3s"">Job Offers&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                <button class="second_btn_join wow fadeInLeft " data-wow-duration="1s" data-wow-delay=".1s"">Contact RH&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
             </div>
         </div>
     </section>

@@ -43,73 +43,73 @@
 <section class="first_section_branding_pa">
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner1-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner2-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner3-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner4-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner5-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner6-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner7-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner8-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="small_branding_panels">
                     <img src="img/logo/logo_s6-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner8-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner2-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="small_branding_panels">
                     <img src="img/logo/partner1-01.png">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
