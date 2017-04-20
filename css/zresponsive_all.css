@@ -97,5 +97,7 @@
 	.cover_branding_page p {
 		font-size: 13px;
 	}
-
+	.cd-primary-nav {
+	    padding-top: 25% !important;
+	}
 }

@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="img/preload_logo-01.png">
 
     <link rel="icon" href="img/preload_logo-01.png">
 
